@@ -1,6 +1,3 @@
-from logging import PlaceHolder
-import tkinter
-import tkinter.messagebox
 import customtkinter as ctk
 import app
 

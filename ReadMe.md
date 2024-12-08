@@ -27,14 +27,6 @@ git clone https://github.com/your-github-username/application-repo.git
 pip install -r requirements.txt
 ```
 
-### Run the Application
-
-```python
-if __name__ == "__main__":
-    appObj = Interface()
-    appObj.mainloop()
-```
-
 ## Usage
 
 1. Run the application using `python main.py` (assuming you're in the project directory).
