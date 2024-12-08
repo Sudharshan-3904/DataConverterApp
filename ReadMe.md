@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the application using `python main.py` (assuming you're in the project directory).
+1. Run the application using `python gui.py` (assuming you're in the project directory).
 2. The GUI will appear with a "Home" section.
 3. Select a conversion type from the tabs at the top of the window:
    - Pressure
@@ -37,12 +37,6 @@ pip install -r requirements.txt
    - Time
 4. In each section, select the unit to convert from and to using the dropdown menus.
 5. Click on the "Convert" button to get the result.
-
-## Contributing
-
-If you'd like to contribute to this project or make any changes, please feel free to create a pull request.
-
-Note: Make sure to test your changes thoroughly before submitting them for review.
 
 ## License
 
